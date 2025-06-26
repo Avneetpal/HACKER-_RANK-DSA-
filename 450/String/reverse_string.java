@@ -1,5 +1,5 @@
 import java.util.*;
-class rev 
+class reve
 {
     public static String revv(String s)
     {
@@ -17,7 +17,7 @@ public class reverse_string {
      public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String s=sc.next();
-       System.out.println( rev.revv(s));
+       System.out.println( reve.revv(s));
        sc.close();
      }
 }
